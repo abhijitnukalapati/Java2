@@ -1,11 +1,12 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1378172956000 359 0cb26a320470e304e99e3548b4910f9462e47c2b /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/layout/mainview.xml
+1378348507000 27113 78ef4b0bfe42478803c98ff86f6ca293f2d662d9 /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/drawable-hdpi/navbar0.png
+1378352126000 7910 95d619a9f398dc27337f408ff4bf0d5af3490b36 /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/layout/mainview.xml
 1378172956000 5928 3434f5af7f56c29563d3e65f941bf92ae182f001 /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/drawable-hdpi/ic_launcher.png
 1378172956000 327 29d32017e4f651638addaf19d3b31528eed4dda9 /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/values-v11/values.xml
 1378172956000 3054 fe1079e4fc7873d817df45cf9eb55be922ceb4e9 /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/drawable-mdpi/ic_launcher.png
-1378172956000 1149 14d41c73464b558c01662d1494fa63b0c4f86d39 /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/values/values.xml
+1378351641000 1313 4245bd354ecda94cff902c3effb8c46ca4715f95 /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/values/values.xml
 1378172956000 355 bbbfe840d5f295ece00bc082ee3d2a15e7c037b3 /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/menu/main.xml
 1378172956000 341 860a9451f972212c7318bf0d4fb4ce30bd5e3d08 /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/values-v14/values.xml
 1378172956000 9337 11a47701e81f3ebb3c0413a4d28a133db0aaf62c /Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/all/debug/drawable-xhdpi/ic_launcher.png

@@ -55,23 +55,39 @@
                 path="/Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/src/main/res/values/styles.xml"
                 qualifiers="" >
 
-                <style
-                    name="AppBaseTheme"
-                    parent="android:Theme.Light" >
+                <style name="LightText" >
+                    <item name="android:textStyle">
+italic
+                    </item>
+                    <item name="android:textColor">
+@android:color/secondary_text_light
+                    </item>
+                    <item name="android:textSize">
+12sp
+                    </item>
+                    <item name="android:paddingLeft">
+10dp
+                    </item>
+                </style>
 
-                    <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-                    -->
+                <style name="BlueTitle" >
+                    <item name="android:textStyle">
+normal
+                    </item>
+                    <item name="android:textColor">
+@android:color/holo_blue_light
+                    </item>
+                    <item name="android:textSize">
+14sp
+                    </item>
+                    <item name="android:paddingLeft">
+10dp
+                    </item>
                 </style>
 
                 <style
                     name="AppTheme"
-                    parent="AppBaseTheme" >
-
-                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
-                </style>
+                    parent="android:Theme.Light" />
             </file>
             <file
                 path="/Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/src/main/res/values-sw720dp-land/dimens.xml"
@@ -101,6 +117,11 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="navbar0"
+                path="/Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/src/main/res/drawable-hdpi/navbar0.png"
+                qualifiers="hdpi"
+                type="drawable" />
         </source>
         <source path="/Users/Patrick/Desktop/Java II/Java2/Java2Patrick/Java2Patrick/build/res/rs/debug" />
     </dataSet>
